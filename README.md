@@ -1,12 +1,3 @@
-# Skills Network Labs Interface Overview
-
-## 🤖 Meet Tai: Your Teaching Assistant AI
-The platform features **Tai**, an integrated AI assistant designed to enhance the learning experience. Tai is specifically optimized to:
-* **Clarify Concepts:** Explain theoretical material related to your current lab.
-* **Environment Support:** Troubleshoot and answer questions about the lab technical setup.
-
----
-
 ## 🚀 IBM watsonx.ai Offer
 Users have access to a free trial of **IBM watsonx.ai**. This studio is designed for:
 * Foundational Models
