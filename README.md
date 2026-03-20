@@ -1,24 +1,37 @@
-## 🚀 IBM watsonx.ai Offer
-Users have access to a free trial of **IBM watsonx.ai**. This studio is designed for:
-* Foundational Models
-* Generative AI
-* Machine Learning workflows
+# Revenue Analysis & Dashboard Project
+
+## 📊 Overview
+This project focuses on processing raw financial data to build an interactive dashboard that tracks key performance indicators (KPIs) and revenue trends. The goal is to transform transactional data into actionable business insights.
+
+## 🛠 Tech Stack
+* **Language:** Python (Pandas/NumPy)
+* **Dashboard Tool:** Power BI / Tableau / Plotly Dash (Edit as needed)
+* **Data Source:** CSV/SQL Database
+* **Version Control:** Git
 
 ---
 
-## 🛠 Support Resources
-
-### 📨 Communication
-* **Inbox:** Centralized location for all system notifications and read/unread messages.
-* **Chat:** Direct interaction with the Tai AI interface.
-
-### 🎫 Technical Support Tickets
-If you encounter issues that Tai cannot resolve, you can submit a support ticket with the following details:
-* **Category:** Choose between *Technical Issues* or *Lab Instructions*.
-* **Subject/Description:** Detailed breakdown of the problem.
-* **Attachments:** Support for PNG/JPEG files (up to 2MB) to provide visual context.
+## 📈 Key Metrics & Features
+The dashboard provides visibility into the following metrics:
+* **Total Revenue:** Gross income over a specific period.
+* **Monthly Recurring Revenue (MRR):** Predictable revenue generated monthly.
+* **Customer Acquisition Cost (CAC):** The cost associated with winning a new customer.
+* **Churn Rate:** Percentage of subscribers who discontinue their subscriptions.
+* **Growth Trends:** Year-over-year (YoY) and Month-over-month (MoM) comparisons.
 
 ---
 
-## Getting Started
-To begin, select a lab module and use the **"Talk to Tai!"** button if you need immediate conceptual or technical assistance.
+## 📂 Project Structure
+* `data/`: Contains raw and processed datasets (ignored by `.gitignore`).
+* `notebooks/`: Jupyter Notebooks for Exploratory Data Analysis (EDA).
+* `src/`: Python scripts for data cleaning and ETL processes.
+* `assets/`: Screenshots of the final dashboard.
+
+---
+
+## 🚀 Getting Started
+
+### 1. Prerequisites
+Ensure you have Python installed. Install dependencies using:
+```bash
+pip install -r requirements.txt
